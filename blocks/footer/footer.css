@@ -1,6 +1,6 @@
 footer {
   padding: 2rem;
-  background-color: var(--background-black);
+  background-color: var(--light-color);
   font-size: var(--body-font-size-s);
 }
 
@@ -11,6 +11,4 @@ footer .footer {
 
 footer .footer p {
   margin: 0;
-  text-align:center;
-  color: var(--text-white);
 }
