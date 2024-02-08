@@ -215,6 +215,9 @@ main .section.highlight {
 /* My code */
 .default-content-wrapper h2{
     padding: 20px 0;
-    border-bottom: 1px solid #ccc;
-    margin-bottom: 10px;
+    border-bottom: 1px solid var(--light-color);
+    margin-bottom: 20px;
+}
+.default-content-wrapper p{
+    margin: 20px 0;
 }
