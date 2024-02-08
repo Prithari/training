@@ -121,6 +121,7 @@ main .form button {
   color: var(--text-white);
   border-radius:0;
   margin-top:20px;
+  margin-bottom:30px;
   font-size: 15px;
 }
 
