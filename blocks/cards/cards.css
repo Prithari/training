@@ -53,3 +53,8 @@
   font-size:15px;
   font-weight:normal;
 }
+
+.cards .cards-card-body p strong{
+    opacity: 0.60;
+    font-weight: normal;
+}
