@@ -41,4 +41,6 @@
   padding: 8px 16px;
   color: var(--text-white);
   background-color: var(--background-black);
+  font-size: 15px;
+  margin: 0;
 }
