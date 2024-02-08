@@ -30,7 +30,7 @@ main .form select {
   font-family: var(--body-font-family);
 
   border: 1px solid #ccc;
-  margin-top: 20px;
+  margin-bottom: 20px;
   padding: 8px;
 }
 
