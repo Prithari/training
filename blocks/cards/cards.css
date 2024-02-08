@@ -29,3 +29,13 @@
   aspect-ratio: 4 / 3;
   object-fit: cover;
 }
+
+/* My code */
+.cards .cards-card-body {
+  position:relative;
+}
+
+.cards-card-body #summer-house {
+  position: absolute;
+  top: 0;
+}
